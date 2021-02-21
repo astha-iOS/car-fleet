@@ -10,7 +10,7 @@ Car Fleet is an App to see a list of cars available in Europe for sale.
 
 ## Installation
 
-* To install Car Fleet on your local system please clone the repository from [Car Fleet](https://yadavastha@bitbucket.org/yadavastha/car-fleet.git)
+* To install Car Fleet on your local system please clone the repository from [Car Fleet](https://github.com/astha-iOS/car-fleet.git)
 * Open `Car Fleet.xcodeproj` in Xcode
 * Build and run application
 
@@ -20,9 +20,4 @@ Run the app on your device. On the first screen, you will see an available car m
 ## Further improvement
 * As of now there is just one simple UI test cases. Need to write more test cases covering all the scinarios.
 
-** Note** Currently `way_key` is stored in the codebase. I will remove it after assesment complete. 
 
-## Contact
-
-If you have any query and suggestion please feel free to contact me:
-* Email: `yadavastha100891@gmail.com`
